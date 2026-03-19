@@ -1,12 +1,12 @@
 # Dependencies
 node_modules/
 
-# Environment variables
+# Environment variables (service keys)
 .env
 .env.local
 .env.*.local
 
-# Supabase credentials
+# Build output
 js/config.js
 
 # OS files
