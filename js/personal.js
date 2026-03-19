@@ -1,5 +1,5 @@
 // =============================================
-// MFit Personal - Personal Trainer Dashboard
+// FitJR - Personal Trainer Dashboard
 // =============================================
 
 const Personal = {

@@ -1,5 +1,5 @@
 // =============================================
-// MFit Personal - Student Dashboard
+// FitJR - Student Dashboard
 // =============================================
 
 const Student = {

@@ -1,6 +1,6 @@
 {
-  "name": "MFit Personal",
-  "short_name": "MFit",
+  "name": "FitJR",
+  "short_name": "FitJR",
   "description": "Gerenciamento de treinos e acompanhamento de alunos",
   "start_url": "/",
   "display": "standalone",

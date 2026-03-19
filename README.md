@@ -1,14 +1,14 @@
-# 💪 MFit Personal
+# 💪 FitJR
 
 > PWA de gerenciamento de treinos para Personal Trainers e Alunos.
 
-![MFit Personal](https://img.shields.io/badge/PWA-Mobile%20First-00E676?style=for-the-badge)
+![FitJR](https://img.shields.io/badge/PWA-Mobile%20First-00E676?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase)
 ![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript)
 
 ## 📱 Sobre
 
-MFit Personal é um aplicativo web progressivo (PWA) para gerenciamento de treinos, conectando Personal Trainers e seus Alunos. O Personal cria treinos com exercícios detalhados e o Aluno acompanha, registra pesos e descansa com timer integrado.
+FitJR é um aplicativo web progressivo (PWA) para gerenciamento de treinos, conectando Personal Trainers e seus Alunos. O Personal cria treinos com exercícios detalhados e o Aluno acompanha, registra pesos e descansa com timer integrado.
 
 ## ✨ Funcionalidades
 
@@ -43,8 +43,8 @@ MFit Personal é um aplicativo web progressivo (PWA) para gerenciamento de trein
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/MFitPersonal.git
-cd MFitPersonal
+git clone https://github.com/ALEzin-debug/FitJR.git
+cd FitJR
 ```
 
 ### 2. Configure o Supabase

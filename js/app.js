@@ -1,5 +1,5 @@
 // =============================================
-// MFit Personal - App Core (Router, State, Init)
+// FitJR - App Core (Router, State, Init)
 // =============================================
 
 const App = {

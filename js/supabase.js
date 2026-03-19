@@ -1,5 +1,5 @@
 // =============================================
-// MFit Personal - Supabase Client & Helpers
+// FitJR - Supabase Client & Helpers
 // =============================================
 
 const SUPABASE_URL = MFIT_CONFIG.SUPABASE_URL;

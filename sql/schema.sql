@@ -1,5 +1,5 @@
 -- =============================================
--- MFit Personal - Schema SQL para Supabase
+-- FitJR - Schema SQL para Supabase
 -- Execute este script no SQL Editor do Supabase
 -- =============================================
 

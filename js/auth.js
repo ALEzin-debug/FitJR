@@ -1,5 +1,5 @@
 // =============================================
-// MFit Personal - Auth Module
+// FitJR - Auth Module
 // =============================================
 
 const Auth = {
@@ -9,7 +9,7 @@ const Auth = {
       <div class="auth-page">
         <div class="auth-logo">
           <span class="logo-icon">💪</span>
-          <h1>MFit <span class="accent text-accent">Personal</span></h1>
+          <h1>Fit<span class="accent text-accent">JR</span></h1>
           <p>Gerencie seus treinos com inteligência</p>
         </div>
 
@@ -42,7 +42,7 @@ const Auth = {
       <div class="auth-page">
         <div class="auth-logo">
           <span class="logo-icon">💪</span>
-          <h1>MFit <span class="accent text-accent">Personal</span></h1>
+          <h1>Fit<span class="accent text-accent">JR</span></h1>
           <p>Crie sua conta</p>
         </div>
 
